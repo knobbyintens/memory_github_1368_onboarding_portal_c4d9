@@ -7,16 +7,16 @@
 
 ## Welcome
 
-Noah Fischer, welcome to Calder Analytics! Your mentor Kenji Sato will reach out before your first day to help you settle into the Design team.
+Noah Fischer, welcome aboard! Your buddy Kenji Sato will reach out before your first day.
 
 ## First Week Schedule
 
-Day 1: orientation and workspace setup with People Operations. Day 2: team introductions and a role overview with Kenji Sato. Days 3-5: paired onboarding sessions, buddy check-ins and a first-week milestone review.
+Day 1 orientation with People Operations, Day 2 team introductions, Day 3-5 paired onboarding with Kenji Sato.
 
 ## Design Tooling Setup
 
-Install the design suite, join the shared component library, and get access to the critique and research channels.
+Install the design suite, join the design critique calendar and review the component library.
 
 ## Remote Equipment Checklist
 
-Confirm your home-office address for laptop and headset shipping, set up VPN and multi-factor authentication, and claim the home-office stipend.
+Laptop and headset will be shipped to the home address; confirm delivery, set up VPN and claim the home-office stipend.

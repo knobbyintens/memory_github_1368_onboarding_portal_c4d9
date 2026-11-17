@@ -7,12 +7,12 @@
 
 ## Welcome
 
-Omar Haddad, welcome to Calder Analytics! Your mentor Laura Mensah will reach out before your first day to help you settle into the Operations team.
+Omar Haddad, welcome aboard! Your buddy Laura Mensah will reach out before your first day.
 
 ## First Week Schedule
 
-Day 1: orientation and workspace setup with People Operations. Day 2: team introductions and a role overview with Laura Mensah. Days 3-5: paired onboarding sessions, buddy check-ins and a first-week milestone review.
+Day 1 orientation with People Operations, Day 2 team introductions, Day 3-5 paired onboarding with Laura Mensah.
 
 ## General Systems Access
 
-Collect your company account credentials, review the systems directory, and walk through the core internal tools with your mentor.
+Request standard collaboration tooling access and complete the mandatory compliance training.

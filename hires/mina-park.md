@@ -7,16 +7,16 @@
 
 ## Welcome
 
-Mina Park, welcome to Calder Analytics! Your mentor Kenji Sato will reach out before your first day to help you settle into the Design team.
+Mina Park, welcome aboard! Your buddy Kenji Sato will reach out before your first day.
 
 ## First Week Schedule
 
-Day 1: orientation and workspace setup with People Operations. Day 2: team introductions and a role overview with Kenji Sato. Days 3-5: paired onboarding sessions, buddy check-ins and a first-week milestone review.
+Day 1 orientation with People Operations, Day 2 team introductions, Day 3-5 paired onboarding with Kenji Sato.
 
 ## Design Tooling Setup
 
-Install the design suite, join the shared component library, and get access to the critique and research channels.
+Install the design suite, join the design critique calendar and review the component library.
 
 ## Security Briefing
 
-Attend the mandatory security briefing with the information-security team before system access is granted, and complete the related clearance acknowledgement.
+Attend the mandatory security briefing with the information-security team before access is granted.

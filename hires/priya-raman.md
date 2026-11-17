@@ -7,16 +7,16 @@
 
 ## Welcome
 
-Priya Raman, welcome to Calder Analytics! Your mentor Rebecca Ortiz will reach out before your first day to help you settle into the Sales team.
+Priya Raman, welcome aboard! Your buddy Rebecca Ortiz will reach out before your first day.
 
 ## First Week Schedule
 
-Day 1: orientation and workspace setup with People Operations. Day 2: team introductions and a role overview with Rebecca Ortiz. Days 3-5: paired onboarding sessions, buddy check-ins and a first-week milestone review.
+Day 1 orientation with People Operations, Day 2 team introductions, Day 3-5 paired onboarding with Rebecca Ortiz.
 
 ## Sales Systems Access
 
-Set up your CRM, sales console and call-tooling accounts with your manager, then review the pipeline dashboards and current account territory.
+Complete CRM and billing-system access requests; shadow two discovery calls in the first week.
 
 ## Security Briefing
 
-Attend the mandatory security briefing with the information-security team before system access is granted, and complete the related clearance acknowledgement.
+Attend the mandatory security briefing with the information-security team before access is granted.
